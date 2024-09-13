@@ -13,7 +13,7 @@ body {
   align-items: center;
   justify-content: center;
   min-height: 100vh;
-  background: url("CurrencyBG.jpg") #030728 no-repeat center;
+  background: url("/src/assets/CurrencyBG.jpg") #030728 no-repeat center;
   background-size: cover;
   background-attachment: fixed;
   margin: 0;
